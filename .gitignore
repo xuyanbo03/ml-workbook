@@ -45,3 +45,6 @@ Temporary Items
 # self
 .vscode
 .idea
+
+.ipynb_checkpoints
+__pycache__
